@@ -1,10 +1,10 @@
 cask "resonance" do
-  version "1.9.1"
-  sha256 "f3f7c0288d25075c38b2035d17243dd7b7a38b2d9c4cde9040e83dad7a86f582"
+  version "1.9.2"
+  sha256 "84120954b3fea873e663920c8e69f70026acd7f9fa1a8f1c13c22ca7e211fd0d"
 
   url "https://github.com/db-mobile/resonance/releases/download/v#{version}/Resonance-#{version}-universal.dmg"
   name "Resonance"
-  desc "Lightweight, offline-first API testing client"
+  desc "A local-first, zero-account API client with excellent user experience"
   homepage "https://db-mobile.github.io/resonance/"
 
   app "Resonance.app"
