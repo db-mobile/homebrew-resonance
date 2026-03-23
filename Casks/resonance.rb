@@ -1,6 +1,6 @@
 cask "resonance" do
-  version "2.6.2"
-  sha256 "e1f4c71628ab8ed65ece43302079df4a52f44287a8446261902648782116627f"
+  version "2.7.0"
+  sha256 "86c7cda3cc38d1408a13af98548da8698c4d38becac3340e18c429f136846c00"
 
   url "https://github.com/db-mobile/resonance/releases/download/v#{version}/Resonance_#{version}_universal.dmg"
   name "Resonance"
